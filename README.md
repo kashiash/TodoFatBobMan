@@ -3,7 +3,7 @@
 
 
 
-Aplikacja Todo
+Aplikacja Todo - CORE DATA jako HARDCORE ;) 
 
 tlumaczenie  https://itnext.io/swiftui-and-core-data-data-fetching-c0c7f62aaf53 i artykułów powiązanych
 
